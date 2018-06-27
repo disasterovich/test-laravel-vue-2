@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+<dealers>
+<item id="1" name="ОЗОН" code="ozon" site="https://www.ozon.ru/"/>
+<item id="2" name="Дарить Легко" code="dl" site="https://mygiftcard.ru/"/>
+<item id="3" name="Комус" code="komus" site="https://www.komus.ru/"/>
+</dealers>
+<sections>
+<item id="1" parent_id="0" dealer_id="1" name="Аудиокниги"/>
+<item id="2" parent_id="0" dealer_id="2" name="Подарочные сертификаты"/>
+<item id="3" parent_id="0" dealer_id="1" name="Техника"/>
+<item id="4" parent_id="3" dealer_id="1" name="Телефоны"/>
+<item id="5" parent_id="3" dealer_id="1" name="TV"/>
+<item id="6" parent_id="0" dealer_id="3" name="Канцелярия"/>
+</sections>
+<items>
+<item id="101" section_id="1" name="Рейнольдс Аластер - Пропасть искупления" price="200"/>
+<item id="102" section_id="1" name="Смит Майкл Маршалл - Неверие" price="250"/>
+<item id="103" section_id="1" name="Чехов Антон - Попрыгунья" price="200"/>
+<item id="104" section_id="1" name="Щербина Татьяна - Запас прочности" price="200"/>
+<item id="105" section_id="1" name="Аткинсон Кейт - Человеческий крокет" price="250"/>
+<item id="201" section_id="2" name="OZON 1000" price="1000"/>
+<item id="202" section_id="2" name="OZON 3000" price="3000"/>
+<item id="203" section_id="2" name="OZON 5000" price="5000"/>
+<item id="204" section_id="2" name="МВидео 5000" price="5000"/>
+<item id="205" section_id="2" name="МВидео 10000" price="10000"/>
+<item id="206" section_id="2" name="Летуаль 2000" price="2000"/>
+<item id="207" section_id="2" name="Летуаль 4000" price="4000"/>
+<item id="208" section_id="2" name="Летуаль 8000" price="8000"/>
+<item id="209" section_id="2" name="Летуаль 12000" price="12000"/>
+<item id="401" section_id="4" name="Samsung A3" price="15000"/>
+<item id="402" section_id="4" name="Samsung A5" price="18000"/>
+<item id="403" section_id="4" name="Samsung A8" price="25000"/>
+<item id="404" section_id="4" name="Samsung S9" price="45000"/>
+<item id="405" section_id="4" name="Samsung S9+" price="65000"/>
+<item id="406" section_id="4" name="Nokia 3310" price="4500"/>
+<item id="407" section_id="4" name="Nokia 8" price="14700"/>
+<item id="408" section_id="4" name="Sony Z1" price="23000"/>
+<item id="409" section_id="4" name="Sony Z2" price="33500"/>
+<item id="4010" section_id="4" name="Sony T1" price="11000"/>
+<item id="501" section_id="5" name="Samsung" price="21000"/>
+<item id="502" section_id="5" name="LG" price="16500"/>
+<item id="503" section_id="5" name="Philips" price="32300"/>
+<item id="601" section_id="6" name="Ручка Parker" price="1640"/>
+<item id="602" section_id="6" name="Блокнот" price="400"/>
+<item id="603" section_id="6" name="Еженеделььник" price="830"/>
+</items>
+</data>
